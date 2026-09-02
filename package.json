@@ -1,0 +1,14 @@
+{
+  "name": "pocket-ide",
+  "version": "1.0.0",
+  "description": "Zero-latency Mobile IDE Bridge for AI Agents. Code locally, control remotely from your phone.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "tunnel": "npx cloudflared tunnel --url http://localhost:3888"
+  },
+  "keywords": ["ai", "ide", "mobile", "remote", "gemini", "cursor"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
