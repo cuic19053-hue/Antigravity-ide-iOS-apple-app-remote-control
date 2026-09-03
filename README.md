@@ -19,6 +19,14 @@ Antigravity IDE iOS Apple Remote Control is a lightweight, zero-latency bridge t
 - **🎨 Native iOS Safari Feel**: UI is heavily optimized to prevent zooming, rubber-banding, and horizontal scrolling on mobile. 
 - **🔄 Auto-Approval Bypass**: Agent automatically accepts and executes tasks when controlled via mobile, bypassing desktop UI clicks.
 
+## 📸 Demo Screenshots
+
+<p align="center">
+  <img src="./assets/screenshot1.png" width="300" alt="Mobile Chat Interface" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshot2.png" width="300" alt="Agent Auto-Executing" />
+</p>
+
 ## 🏗️ Architecture
 
 ```mermaid
@@ -39,12 +47,6 @@ sequenceDiagram
 ```
 
 ## 🚀 Quick Start
-
-<p align="center">
-  <img src="./assets/screenshot1.png" width="300" alt="Mobile Chat Interface" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/screenshot2.png" width="300" alt="Agent Auto-Executing" />
-</p>
 
 ### 1. Requirements
 - Node.js installed on your local machine.

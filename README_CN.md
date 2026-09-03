@@ -19,6 +19,14 @@ Antigravity IDE iOS Apple Remote Control 是一个轻量级、零延迟的远程
 - **🎨 原生 iOS Safari 体验**：UI 深度防抖优化，彻底解决了手机端浏览器输入时的自动放大、左右滑动等恼人问题。
 - **🔄 自动跳过确认**：针对移动端特殊定制了自动授权规则，AI 执行操作时不再需要您在电脑前手动点击确认。
 
+## 📸 演示截图
+
+<p align="center">
+  <img src="./assets/screenshot1.png" width="300" alt="移动端聊天界面" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshot2.png" width="300" alt="自动执行任务" />
+</p>
+
 ## 🏗️ 架构原理
 
 ```mermaid
@@ -39,12 +47,6 @@ sequenceDiagram
 ```
 
 ## 🚀 快速启动
-
-<p align="center">
-  <img src="./assets/screenshot1.png" width="300" alt="移动端聊天界面" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/screenshot2.png" width="300" alt="自动执行任务" />
-</p>
 
 ### 1. 环境要求
 - 本地电脑已安装 Node.js。
