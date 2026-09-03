@@ -40,6 +40,12 @@ sequenceDiagram
 
 ## 🚀 快速启动
 
+<p align="center">
+  <img src="./assets/screenshot1.png" width="300" alt="移动端聊天界面" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshot2.png" width="300" alt="自动执行任务" />
+</p>
+
 ### 1. 环境要求
 - 本地电脑已安装 Node.js。
 - iPhone/iPad 与电脑处于同一局域网（或使用内网穿透进行远程访问）。

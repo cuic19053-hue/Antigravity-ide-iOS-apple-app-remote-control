@@ -40,6 +40,12 @@ sequenceDiagram
 
 ## 🚀 Quick Start
 
+<p align="center">
+  <img src="./assets/screenshot1.png" width="300" alt="Mobile Chat Interface" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/screenshot2.png" width="300" alt="Agent Auto-Executing" />
+</p>
+
 ### 1. Requirements
 - Node.js installed on your local machine.
 - An iPhone or iPad connected to the same Wi-Fi network (or use Cloudflare Tunnel for remote access).
