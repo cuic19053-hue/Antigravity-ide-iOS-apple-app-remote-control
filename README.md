@@ -1,5 +1,7 @@
 # 📱 Antigravity IDE iOS Apple Remote Control
 
+🌐 **[中文文档 (Chinese README)](./README_CN.md)**
+
 **Zero-latency iOS Mobile Bridge for Antigravity IDE**
 
 Antigravity IDE iOS Apple Remote Control is a lightweight, zero-latency bridge that allows you to control your local Antigravity IDE and AI agents directly from your iPhone or iPad browser (Safari).
@@ -33,6 +35,3 @@ Traditional AI coding assistants lock you to your desktop. This tool breaks that
 The remote control works by writing messages directly into the IDE's active workspace message queue.
 Include the provided `.agents/AGENTS.md` rules in your project so your IDE knows how to automatically reply back to the mobile client using `push-msg.js` and bypasses manual UI clicks.
 
----
-
-🌐 **[中文文档 (Chinese README)](./README_CN.md)**

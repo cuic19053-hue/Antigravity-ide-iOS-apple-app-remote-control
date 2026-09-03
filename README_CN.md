@@ -1,5 +1,7 @@
 # 📱 Antigravity IDE iOS Apple Remote Control
 
+🌐 **[English Documentation (英文文档)](./README.md)**
+
 **专为 Antigravity IDE 打造的零延迟 iOS 移动端桥接工具**
 
 Antigravity IDE iOS Apple Remote Control 是一个轻量级、零延迟的远程控制桥接工具，允许您直接从 iPhone 或 iPad 的 Safari 浏览器中，远程控制本地的 Antigravity IDE 和 AI 编程助手。
@@ -33,6 +35,3 @@ Antigravity IDE iOS Apple Remote Control 是一个轻量级、零延迟的远程
 远程控制的工作原理是将您的聊天消息直接写入到 IDE 活跃工作区的消息队列中。
 请将提供的 `.agents/AGENTS.md` 规则包含在您的项目中，这样您的 IDE 就会知道如何通过 `push-msg.js` 脚本自动将执行结果与消息回复推送回您的手机端，且绕过必须在电脑端手动点击 UI 按钮的限制。
 
----
-
-🌐 **[English Documentation (英文文档)](./README.md)**
